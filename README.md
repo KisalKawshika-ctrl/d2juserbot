@@ -1,7 +1,7 @@
 ### WELCOME
 # FORK AT YOUR OWN RISK
 # Installing
-Contact www.t.me/kisalkawshika_ctrl to know more !
+Contact <a herf="www.t.me/kisalkawshika_ctrl/>@kisalkawshika to know more !
 ### The Easy Way
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
