@@ -1,7 +1,7 @@
 ### WELCOME
 # FORK AT YOUR OWN RISK
 # Installing
-Join https://t.me/HardcoreUserbot to know more !
+Contact t.me/kisalkawshika_ctrl to know more !
 ### The Easy Way
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
@@ -10,8 +10,8 @@ Join https://t.me/HardcoreUserbot to know more !
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/Hack12R/HardcoreUserbot
-cd HardcoreUserbot
+git clone https://github.com/KisalKawshika-ctrl/d2juserbot
+cd d2juserbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
