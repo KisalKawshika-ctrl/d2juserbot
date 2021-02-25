@@ -1,6 +1,6 @@
 {
-  "name": "HardcoreUserbot",
-  "description": "Userbot created by a @Hack12R, Join https://t.me/HardcoreUserbot for any problems or support",
+  "name": "d2juserbot",
+  "description": "Userbot created by a @kisalkawshika-ctrl",
   "logo": "https://telegra.ph/file/1b1304649ee3ecd281322.jpg",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Hack12R/HardcoreUserbot/",
+  "repository": "https://github.com/KisalKawshika-ctrl/d2juserbot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
